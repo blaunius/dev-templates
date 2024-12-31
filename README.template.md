@@ -1,7 +1,5 @@
 # README Template
-#### @blaunius
-
-Random files, directories, and templates commonly used in projects
+#### created by @blaunius
 *This is a template, please remove me :)*
 
 ### 📌 Common Emojis
@@ -63,4 +61,4 @@ Random files, directories, and templates commonly used in projects
 
 ## ⛑️ Contribution
 
-Please refer to the standard GitHub Flow https://docs.github.com/en/get-started/using-github/github-flow and 
+Please refer to the standard GitHub Flow https://docs.github.com/en/get-started/using-github/github-flow if you'd like to contribute
