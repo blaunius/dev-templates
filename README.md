@@ -48,7 +48,7 @@
 
 ## 🎯 Usage
 
-## 📝 Support
+## 🦾 Support
 
 .NET 8 end of support:  `November 10, 2026`
 
@@ -61,4 +61,4 @@
 
 ## ⛑️ Contribution
 
-Please refer to the standard GitHub Flow https://docs.github.com/en/get-started/using-github/github-flow if you'd like to contribute
+Please refer to the [standard GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow) if you'd like to contribute
